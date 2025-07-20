@@ -1,3 +1,3 @@
 The maps should be look like this image
 
-## /maps/MyProjectLooks.png
+![alt text](https://github.com/MepxDev/MyProject/edit/main/maps/MyProjectLooks.png "Logo Title Text 1")
